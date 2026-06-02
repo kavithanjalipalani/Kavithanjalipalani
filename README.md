@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Kavithanjali 👋
 
-<!--
-**kavithanjalipalani/Kavithanjalipalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science and Business Systems (CSBS) Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer passionate about Java, SQL, Web Development, and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Pursuing B.Tech in Computer Science and Business Systems
+- 🌱 Currently learning Core Java, SQL, HTML, CSS, JavaScript, and Git
+- 💡 Interested in Software Development, AI/ML, and Problem Solving
+- 🎯 Preparing for Software Engineering and Full Stack Development roles
+- 📚 Building projects and improving coding skills every day
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Java
+- SQL
+- JavaScript
+
+### Web Technologies
+- HTML5
+- CSS3
+- Bootstrap
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- MySQL
+
+---
+
+## 📂 Projects
+
+### 🔹 Smart Resume Analyzer
+AI-powered resume analysis system using Python and NLP.
+
+### 🔹 Mood Detection from Facial Expressions
+Machine Learning project for detecting emotions from facial images.
+
+### 🔹 UCF-Vox Deepfake Detection
+Multimodal deepfake detection system combining facial and voice analysis.
+
+---
+
+## 📖 Currently Working On
+
+- Core Java Programming
+- SQL Query Practice
+- Web Development
+- Placement Preparation
+- Git & GitHub
+
+---
+
+## 🎯 Career Objective
+
+To build strong software engineering skills, contribute to innovative projects, and grow as a technology professional while creating impactful solutions.
+
+---
+
+## 📍 Location
+
+Puducherry, India
+
+---
+
+⭐ Thanks for visiting my profile!
